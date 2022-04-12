@@ -208,11 +208,12 @@ section{
     min-height: 100vh;
     display: flex;
     align-items: center;
-    background:url(../about-img.jpeg) no-repeat;
     background-size: cover;
     background-position: center;
 }
-
+.home {
+    background:url(../about-img.jpeg) no-repeat;
+}
 
 .home .content{
     max-width: 60rem;
